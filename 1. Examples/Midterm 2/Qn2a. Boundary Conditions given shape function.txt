@@ -1,0 +1,12 @@
+Re-reviewed 2020-12-18
+
+Simple review of the equation given the location of each of the supports
+question asked for the zero boundary conditions whereas i reviewed all the boundary conditions
+
+shape function = f(x) = displacement equation
+slope equation = 1st derivative
+curvature equation = 2nd derivative
+
+
+
+

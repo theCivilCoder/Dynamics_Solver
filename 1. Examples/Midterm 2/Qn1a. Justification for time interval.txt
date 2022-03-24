@@ -1,0 +1,14 @@
+Re-reviewed on 2020-12-18
+
+Justification for time interval:
+1) must be small enough to capture the structural behavior for each load portion
+2) ensure the selected interval aligns with the load change points (0.025s, 0.05s)
+
+
+
+
+
+
+
+
+

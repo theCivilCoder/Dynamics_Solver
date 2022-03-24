@@ -1,0 +1,81 @@
+1)  Missing equation for the variable "x
+"
+2)  child_var "u,i" is missing a relation with the parent var "j 
+j=x==(1/(2*pi*z))*ln{(u,i/u,j)}
+"
+3)  child_var "u,j" is missing a relation with the parent var "j 
+j=x==(1/(2*pi*z))*ln{(u,i/u,j)}
+"
+4)  child_var "u,i" is missing a relation with the parent var "z 
+z=c/c,cr==(1/(2*pi*j))*ln{(u,i/u,j)}
+"
+5)  child_var "u,j" is missing a relation with the parent var "z 
+z=c/c,cr==(1/(2*pi*j))*ln{(u,i/u,j)}
+"
+6)  child_var "z" is missing a relation with the parent var "u(t) 
+u(t)=exp{(-1*z*w,n*t)}*[u,0*cos{(w,n*t)}+u,0*/w,n*sin{(w,n*t)}]
+"
+7)  child_var "w,n" is missing a relation with the parent var "u(t) 
+u(t)=exp{(-1*z*w,n*t)}*[u,0*cos{(w,n*t)}+u,0*/w,n*sin{(w,n*t)}]
+"
+8)  child_var "t" is missing a relation with the parent var "u(t) 
+u(t)=exp{(-1*z*w,n*t)}*[u,0*cos{(w,n*t)}+u,0*/w,n*sin{(w,n*t)}]
+"
+9)  child_var "u,0" is missing a relation with the parent var "u(t) 
+u(t)=exp{(-1*z*w,n*t)}*[u,0*cos{(w,n*t)}+u,0*/w,n*sin{(w,n*t)}]
+"
+10)  child_var "z" is missing a relation with the parent var "w,D 
+w,D=w,n*[1-z^2]^0.5==2*pi/T,D
+"
+11)  child_var "w,n" is missing a relation with the parent var "T,D 
+T,D=2*pi/w,D==2*pi/(w,n*[1-z^2]^0.5)==T,n/[1-z^2]^0.5
+"
+12)  child_var "z" is missing a relation with the parent var "T,D 
+T,D=2*pi/w,D==2*pi/(w,n*[1-z^2]^0.5)==T,n/[1-z^2]^0.5
+"
+13)  child_var "T,n" is missing a relation with the parent var "T,D 
+T,D=2*pi/w,D==2*pi/(w,n*[1-z^2]^0.5)==T,n/[1-z^2]^0.5
+"
+14)  Missing equation for the variable "w,p
+"
+15)  child_var "f,n" is missing a relation with the parent var "f,D 
+f,D=w,p/(2*pi)==f,n*[1-z^2]^0.5
+"
+16)  child_var "z" is missing a relation with the parent var "f,D 
+f,D=w,p/(2*pi)==f,n*[1-z^2]^0.5
+"
+17)  Missing equation for the variable "u,o
+"
+18)  child_var "z" is missing a relation with the parent var "u,max 
+u,max=[(u,o)^2+((z*w,n*u,o+u,o*)/w,D)^2]^0.5
+"
+19)  child_var "w,n" is missing a relation with the parent var "u,max 
+u,max=[(u,o)^2+((z*w,n*u,o+u,o*)/w,D)^2]^0.5
+"
+20)  child_var "w,D" is missing a relation with the parent var "u,max 
+u,max=[(u,o)^2+((z*w,n*u,o+u,o*)/w,D)^2]^0.5
+"
+21)  child_var "w,n" is missing a relation with the parent var "T,n 
+T,n=2*pi/w,n==2*pi*[m/k]^0.5
+"
+22)  child_var "m" is missing a relation with the parent var "T,n 
+T,n=2*pi/w,n==2*pi*[m/k]^0.5
+"
+23)  child_var "k" is missing a relation with the parent var "T,n 
+T,n=2*pi/w,n==2*pi*[m/k]^0.5
+"
+24)  child_var "T,n" is missing a relation with the parent var "f,n 
+f,n=1/T,n==w,n/(2*pi)==1/(2*pi)*[k/m]^0.5
+"
+25)  child_var "w,n" is missing a relation with the parent var "f,n 
+f,n=1/T,n==w,n/(2*pi)==1/(2*pi)*[k/m]^0.5
+"
+26)  child_var "k" is missing a relation with the parent var "f,n 
+f,n=1/T,n==w,n/(2*pi)==1/(2*pi)*[k/m]^0.5
+"
+27)  child_var "m" is missing a relation with the parent var "f,n 
+f,n=1/T,n==w,n/(2*pi)==1/(2*pi)*[k/m]^0.5
+"
+28)  child_var "z" is missing a relation with the parent var "w,n 
+w,n=[k/m]^0.5==w,D/[1-z^2]^0.5==c,cr/(2*m)*1000
+"
